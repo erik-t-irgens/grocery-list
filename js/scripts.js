@@ -20,6 +20,25 @@ var groceryArrays = [];
   });
 });
 
+//  USE THIS INSTEAD. IT'S MUCH BETTER. IT HAS BETTER UNDERSTANDING FOR WHAT YOU'RE DOING
+// var groceryList = [];
+    //
+    // $("#addItem").onClick(function() {
+    //     var listItem = $("#groceryList").val();
+    //     groceryList.push(groceryList)
+    // });
+    //
+    // ("#submitList").onclick(function() {
+    //     // var upperList = groceryList.map(function(item){ return item.toUpperCase() });
+    //     var upperList = [];
+    //     groceryList.forEach(function(item){
+    //         upperList.push(item.toUpperCase());
+    //     });
+    //     groceryList.toUppercase();
+    //     groceryList.sort();
+    //
+    // });
+
 //Word play program- input into console
 // var string = prompt("enter sentence");
 // var sentArray = string.split('');
